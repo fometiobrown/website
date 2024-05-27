@@ -1,0 +1,18 @@
+img{width: 10cm; ;
+    height:8cm;
+    align-items:center;
+    align-tracks: center;
+;}
+    h1 {font-size: 2pc;
+        aspect-ratio: arial;
+
+    }
+    p{
+        font-size: 1.5pc;
+    }
+   
+    .barre {
+        width: 100%; /* définir la largeur de la barre à 100% de la largeur de l'écran */
+        height: 50px; /* définir la hauteur de la barre */
+        background-color: rgb(21, 190, 35); /* définir la couleur de fond de la barre en rouge */
+        /* autres styles comme la police, la taille, la position, etc., peuvent être ajoutés selon vos besoins */
